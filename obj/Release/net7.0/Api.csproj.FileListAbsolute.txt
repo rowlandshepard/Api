@@ -67,3 +67,4 @@ C:\Source\WebAPI\globo\Api\obj\Release\net7.0\refint\Api.dll
 C:\Source\WebAPI\globo\Api\obj\Release\net7.0\Api.pdb
 C:\Source\WebAPI\globo\Api\obj\Release\net7.0\Api.genruntimeconfig.cache
 C:\Source\WebAPI\globo\Api\obj\Release\net7.0\ref\Api.dll
+C:\Source\WebAPI\globo\Api\obj\Release\net7.0\Api.sourcelink.json

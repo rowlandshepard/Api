@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/275fa700-b9a3-4d98-b009-c6d4b1dfe389/resourceGroups/rwlndshprdHouseWebApi_group/providers/Microsoft.Web/sites/rwlndshprdHouseWebApi"
+}
